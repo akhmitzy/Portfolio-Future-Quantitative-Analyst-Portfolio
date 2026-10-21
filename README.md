@@ -147,8 +147,8 @@ Re-execute all notebooks in place with
 
 ## About
 
-Built by **[Your Name]** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [email](mailto:you@example.com)
+Built by **Rqm Akhmitzyanov** · [LinkedIn](www.linkedin.com/in/ram-akhmitzyanov-8479a56b) · [email](arramzis@gmail.com)
 
-Background: *[one line, e.g. MSc in Financial Engineering; interests in fund research, ML and optimisation]*.
+Background: *PhD Mathematics, Statistics | AWS • Databricks | Deep ML • Reinforcement Learning | Agentic AI  | Knowledge Graphs  better process decisions*
 
 Licensed under the MIT License.
