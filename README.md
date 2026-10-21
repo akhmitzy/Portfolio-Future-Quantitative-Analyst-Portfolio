@@ -149,6 +149,6 @@ Re-execute all notebooks in place with
 
 Built by **Rqm Akhmitzyanov** · [LinkedIn](www.linkedin.com/in/ram-akhmitzyanov-8479a56b) · [email](arramzis@gmail.com)
 
-Background: *PhD Mathematics, Statistics | AWS • Databricks | Deep ML • Reinforcement Learning | Agentic AI  | Knowledge Graphs  better process decisions*
+Background: *PhD Mathematics, Statistics | AWS • Databricks | Deep ML • Reinforcement Learning | Agentic AI  | Knowledge Graphs • better process decisions*
 
 Licensed under the MIT License.
